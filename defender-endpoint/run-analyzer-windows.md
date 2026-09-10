@@ -1,6 +1,6 @@
 ---
 title:  Run the client analyzer on Windows
-description: Learn how to run the Microsoft Defender for Endpoint Client Analyzer on Windows.
+description: Learn how to run the Microsoft Defender for Endpoint Client Analyzer on Windows.qqqqqqq
 ms.service: defender-endpoint
 ms.author: chrisda
 author: chrisda
